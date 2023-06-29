@@ -50,6 +50,7 @@ To run this project locally, you'll need the following:
 - The smart contract includes basic functionality for depositing ETH and redeeming nUSD tokens. Feel free to extend the functionality as per your project requirements.
 
 - Remember to properly manage the security and trust aspects of your project, including contract audits, secure key management, and best practices for smart contract development.
+- https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol
 
 ## Contributions
 
